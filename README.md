@@ -4,7 +4,7 @@ I am Oonre Advincula-Go, a data scientist from the Philippines.
 
 I have experience handling a wide range of data types, and with implementing various methodologies to derive insights from data.
 
-For inquiries, feel free to drop me an email at oonreadvinculago@gmail.com. Let's work together!
+For inquiries, feel free to drop me an email at oonreadvinculago@gmail.com.
 
 # Tools and Skills
 - General programming skills in the Python language with particular emphasis on libraries suited for data manipulation and analysis such as NumPy, Pandas, SciPy, and Statsmodels
