@@ -17,7 +17,7 @@ For inquiries, feel free to drop me an email at oonreadvinculago@gmail.com.
 # Reference
 You can find me on other sites:
 - [LinkedIn][1]
-- [My Portfolio][2]
+- [My Portfolio][2] (This is currently only a partial list - still under construction!)
 
 
 [1]: https://www.linkedin.com/in/oonreadvinculago/
